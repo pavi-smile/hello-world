@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# hello-world
+sample workout
+hi this is pavi,and iam pursuing msc software systems degree
+>>>>>>> 81c632c6c7bc56df34006b73df505819ca58d5cf
